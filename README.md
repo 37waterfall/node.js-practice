@@ -15,3 +15,8 @@ wiki - http status
 Markdown 官方教程
 
 - <https://markdown.com.cn/basic-syntax/links.html>
+
+mysql 安装
+
+- <https://www.jianshu.com/p/dc278931d71e>
+<!-- - <https://www.cnblogs.com/yinfei/p/11427259.html> -->
